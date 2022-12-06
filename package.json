@@ -1,0 +1,12 @@
+{
+  "name": "@pheis/prettier-config",
+  "version": "0.0.1",
+  "main": "prettier.config.cjs",
+  "files": [
+    "prettier.config.cjs"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "prettier": "^2.8.0"
+  }
+}
